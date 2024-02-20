@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me stahlj767A-TGmail
+- 📫 How to reach me stahlj767ATGmail
 - That's all
 
 <!---
