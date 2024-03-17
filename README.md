@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stahlj767
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about ChatGPT. It's so cool.
+- 🌱 I’m currently learning about Sora. It's amazing.
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me stahlj767ATGmail
 - That's all
