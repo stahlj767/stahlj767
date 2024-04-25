@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning about Sora. It's amazing.
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me stahlj767ATGmail
+- 📫 How to reach me stahlj767ATGmailDOTcom
 - That's all
 
 <!---
